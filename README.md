@@ -18,9 +18,9 @@ A backend service engineered to manage organization asset inventories, equipment
 ---
 
 ## ✨ Key Features
-- ⚡ **Asset check-in and check-out tracking with borrower logs**: Asset check-in and check-out tracking with borrower logs
-- ⚡ **Item condition status updates (Available, Borrowed, Maintenance)**: Item condition status updates (Available, Borrowed, Maintenance)
-- ⚡ **Role-based authentication for admins and borrowers**: Role-based authentication for admins and borrowers
+- Asset check-in and check-out tracking with borrower logs
+- Item condition status updates (Available, Borrowed, Maintenance)
+- Role-based authentication for admins and borrowers
 
 ---
 
